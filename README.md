@@ -12,5 +12,4 @@ Features:
 - Print or save as PDF using react-to-print
 - URL state management
 - Postgres DB and file uploads to Vercel Blob
-- Auto-save hook
-- & more
+- Auto-save hook & more
